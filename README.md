@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Explore a variety of indoor plants for your home or office.">
-    <title>Indoor Plants</title>
 </head>
 <body>
     <h1>Indoor Plants</h1>
